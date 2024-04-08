@@ -15,7 +15,7 @@ Getting Started
 To get started with exploring the Netflix Power BI Dashboard:
 
 Clone or download this repository to your local machine.
-Open the Netflix_Power_BI_Dashboard.pbix file using Microsoft Power BI Desktop.
+Open the Netflix.pbix file using Microsoft Power BI Desktop.
 Interact with the visualizations, apply filters, and explore the dataset to uncover valuable insights.
 Dataset
 The dataset used in this project contains information about Netflix's content, including titles, genres, release years, ratings, and more. It provides a comprehensive view of Netflix's vast library and user engagement metrics.
